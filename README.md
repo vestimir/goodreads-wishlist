@@ -1,5 +1,7 @@
 # Example config
 
+Put the following in `config.yml`
+
 ```yaml
 api_key: key
 api_secret: secret
